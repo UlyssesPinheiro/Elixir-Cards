@@ -1,21 +1,14 @@
 # Cards
 
-**TODO: Add description**
+This application generates a full deck of cards. It has a few methods like:
 
-## Installation
+- shuffle
+- contains
+- deal
+- create_hand
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `cards` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:cards, "~> 0.1.0"}
-  ]
-end
-```
+Project built during the Udemy Course: "The Complete Elixir and Phoenix Bootcamp"
 
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at <https://hexdocs.pm/cards>.
-
